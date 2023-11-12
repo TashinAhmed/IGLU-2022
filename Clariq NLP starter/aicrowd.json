@@ -1,0 +1,10 @@
+
+{
+    "challenge_id": "neurips-2022-iglu-challenge-nlp-task",
+    "authors": [
+      "iglu-team"
+    ],
+    "description": "BERT Classifier and BM25 Ranker epc 20",
+    "gpu": true
+  }
+  
